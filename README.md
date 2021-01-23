@@ -42,6 +42,6 @@ Sign in with your Github account and fork this repo.
 * When tdesktop is opened, login with an alt account of yours.
 * Join a voice chat, unmute the mic and close the RDP connection.
   
-## Credits
+## Credit
 * [The original repository](https://github.com/RattyDAVE/docker-ubuntu-xrdp-mate-custom)
 * [Subinps](https://github.com/subinps) 
